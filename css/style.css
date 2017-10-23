@@ -1,0 +1,33 @@
+section {
+    width: calc(50% - 102px);
+    min-height: 200px;
+    float: left;
+    margin: 50px 0 0 50px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    background-color: #ddd;
+}
+
+img {
+    border-radius: 180px;
+    width: 128px;
+    padding: 25px;
+    float: left;
+}
+
+textarea {
+    width: calc(100% - 203px);
+    height: 100px;
+    float: left;
+    margin-top: 25px;
+}
+
+p {
+    font-family: monospace;
+    float: left;
+    width: calc(100% - 203px);
+}
+
+p span {
+    color: green;
+}
